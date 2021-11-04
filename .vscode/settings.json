@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "vscode-icons"
+}
